@@ -165,10 +165,7 @@
                     </ul>
                     </div>
                     <div class="col">
-                    <ul>
-                        <li>Đồ án tốt nghiệp (Chủ đề: Xây dựng Website bán giày)</li>
-                        <li>Khoa: CNTT</li>
-                    </ul>
+                    
                     </div>
 
                 </div>
